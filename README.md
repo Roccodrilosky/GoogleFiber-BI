@@ -21,3 +21,7 @@ To provide the interviewers with both BI value and organizational data maturity,
 - [Stakeholder Requirements Document.](https://github.com/Roccodrilosky/GoogleFiber-BI/blob/main/Google%20Fiber%20-%20Stakeholder%20Requirements%20Document.pdf)
 - [Project Requirements Document.](https://github.com/Roccodrilosky/GoogleFiber-BI/blob/main/Google%20Fiber%20-%20Project%20Requirements%20Document.pdf)
 - [Strategy Document](https://github.com/Roccodrilosky/GoogleFiber-BI/blob/main/Google%20Fiber%20-%20Strategy%20Document.pdf)
+
+### Creation of the Data Set.
+
+[SQL query to create a single combined table that merged three datasets](https://github.com/Roccodrilosky/GoogleFiber-BI/blob/main/merged_datasets.sql)  
