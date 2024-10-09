@@ -54,7 +54,7 @@ The team’s ultimate goal is to reduce call volume by increasing customer satis
 
 ### Other considerations:
 
-In order to anonymize and fictionalize the data, the datasets the columns market_1, market_2, and market_3 to indicate three different city service areas the data represents. 
+In order to anonymize and fictionalize the data, the datasets the columns [market_1](https://github.com/Roccodrilosky/GoogleFiber-BI/blob/main/market_1.csv), [market_2](https://github.com/Roccodrilosky/GoogleFiber-BI/blob/main/market_2.csv), and [market_3](https://github.com/Roccodrilosky/GoogleFiber-BI/blob/main/market_3.csv) to indicate three different city service areas the data represents. 
 
 The data also lists five problem types:
 
