@@ -11,6 +11,6 @@ To provide the interviewers with both BI value and organizational data maturity,
 
 ## Business Intelligence Documents.
 
-- Stakeholder Requirements Document.(https://github.com/Roccodrilosky/GoogleFiber-BI/blob/main/Google%20Fiber%20-%20Stakeholder%20Requirements%20Document.pdf)
+[- Stakeholder Requirements Document.](https://github.com/Roccodrilosky/GoogleFiber-BI/blob/main/Google%20Fiber%20-%20Stakeholder%20Requirements%20Document.pdf)
 - Project Requirements Document.
 - Strategy Document
