@@ -28,4 +28,4 @@ To provide the interviewers with both BI value and organizational data maturity,
 
 ## Final Dashboard
 
-### [BI Project - Google Fiber](https://public.tableau.com/views/BIProject-GoogleFiber/RepeatsbyMonth_1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau BI Project: Google Fiber](https://public.tableau.com/views/BIProject-GoogleFiber/RepeatsbyMonth_1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
