@@ -25,3 +25,7 @@ To provide the interviewers with both BI value and organizational data maturity,
 ### Creation of the Data Set.
 
 [SQL query to create a single combined table that merged three datasets](https://github.com/Roccodrilosky/GoogleFiber-BI/blob/main/merged_datasets.sql)  
+
+## Final Dashboard
+
+### [BI Project - Google Fiber](https://public.tableau.com/views/BIProject-GoogleFiber/RepeatsbyMonth_1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
